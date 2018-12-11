@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Time'/>
+        <page name='Asset'/>
+        <page name='Image Generator'/>
+        <page name='Play'/>
+        <page name='Media Composition'/>
+        <page name='Audio Mixing'/>
+        <page name='Video Composition'/>
+        <page name='Core Image'/>
+        <page name='Metal'/>
+        <page name='Core Animation'/>
+        <page name='Import'/>
+        <page name='Capture'/>
+    </pages>
+</playground>
